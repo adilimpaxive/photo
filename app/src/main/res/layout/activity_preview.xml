@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PreviewActivity">
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp" />
+    <LinearLayout
+        android:id="@+id/linerlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below = "@+id/videoView"
+        android:layout_marginTop="20dp">
+        <ImageView
+            android:id="@+id/pause"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_height="wrap_content"/>
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp" />
+    </LinearLayout>
+    <HorizontalScrollView
+        android:id="@+id/scrollView"
+        android:layout_below = "@+id/linerlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <Button
+            android:id="@+id/frames"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="Frames"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/effects"
+            android:layout_width="wrap_content"
+            android:text="effects"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"/>
+        <Button
+            android:id="@+id/Sticker"
+            android:layout_width="wrap_content"
+            android:text="Sticker"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"/>
+        <Button
+            android:id="@+id/Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="10dp"
+            android:text="Text" />
+
+        <Button
+            android:id="@+id/Music"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="10dp"
+            android:text="Music" />
+    </LinearLayout>
+    </HorizontalScrollView>
+   <!-- <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+    </LinearLayout>-->
+
+   <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/layout"
+       android:layout_below = "@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       android:layout_marginTop="3dp"
+       android:layout_marginBottom="3dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+</RelativeLayout>
+
+

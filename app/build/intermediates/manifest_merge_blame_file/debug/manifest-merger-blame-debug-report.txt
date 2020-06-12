@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.photo.viedo.maker.photomaker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:5:5-80
+11-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:6:5-81
+12-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:7:5-67
+13-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:7:22-64
+14
+15    <application
+15-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:9:5-32:19
+16        android:allowBackup="true"
+16-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.2.0] /home/adilfaruqi/.gradle/caches/transforms-2/files-2.1/f4976fdf66a867c7fc93ada653134a06/core-1.2.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:hardwareAccelerated="false"
+19-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:11:9-44
+20        android:icon="@mipmap/ic_launcher"
+20-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:13:9-41
+22        android:largeHeap="true"
+22-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:14:9-33
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:15:9-54
+24        android:supportsRtl="true"
+24-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:17:9-40
+27        <activity android:name="com.photo.viedo.maker.photomaker.PreviewActivity" />
+27-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:18:9-62
+27-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:18:19-50
+28        <activity android:name="com.photo.viedo.maker.photomaker.MainActivity" />
+28-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:19:9-50
+28-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:19:19-47
+29        <activity android:name="com.photo.viedo.maker.photomaker.Photoeditoe" />
+29-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:20:9-49
+29-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:20:19-46
+30        <activity android:name="com.photo.viedo.maker.photomaker.EraserActivity" />
+30-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:21:9-52
+30-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:21:19-49
+31        <activity android:name="com.photo.viedo.maker.photomaker.Cropimage" />
+31-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:22:9-47
+31-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:22:19-44
+32        <activity android:name="com.photo.viedo.maker.photomaker.Main2Activity" >
+32-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:23:9-28:20
+32-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:23:19-48
+33            <intent-filter>
+33-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:24:13-27:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:25:17-69
+34-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:26:17-77
+36-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:26:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:29:9-31:59
+40            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+40-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:30:13-76
+41            android:theme="@style/Base.Theme.AppCompat" />
+41-->/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/AndroidManifest.xml:31:13-56
+42    </application>
+43
+44</manifest>

@@ -1,0 +1,4 @@
+#Fri Jun 12 17:43:45 PKT 2020
+base.0=/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

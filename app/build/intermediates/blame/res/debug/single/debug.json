@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lens_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_lens_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_redo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_crop_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_crop_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_filter_frames_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_filter_frames_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_color_select.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/color_select.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_activity_photoeditoe.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/activity_photoeditoe.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool2_d.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool2_d.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool1_d.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool1_d.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool2.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool2.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_save_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_save_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_activity_preview.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/activity_preview.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_add_sticker.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/add_sticker.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_add_text_dialog.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/add_text_dialog.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_pause_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_pause_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_brush_size3_button.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/brush_size3_button.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_insert_emoticon_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_insert_emoticon_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_undo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_brush_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool3.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool3.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_real_erase_n.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/real_erase_n.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_text_fields_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_text_fields_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_save_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_save_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_save_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_save_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_color_picker_item_list.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/color_picker_item_list.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_save_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_save_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_text_fields_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_text_fields_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_insert_emoticon_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_redo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_brush_size1_button.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/brush_size1_button.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_text_fields_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_text_fields_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_crop_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_crop_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_pause_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pause_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_activity_main2.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool4.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool4.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_icon_eraser.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/icon_eraser.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_loupe_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_loupe_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_bg.jpg.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/bg.jpg"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_rotate_right_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_rotate_right_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_thumb.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/thumb.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool1.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool1.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_crop_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_crop_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_undo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_lens_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_lens_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_save_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_save_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_undo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_insert_emoticon_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_background.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_background.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_loupe_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_loupe_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_loupe_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_loupe_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_insert_emoticon_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_row_sticker.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/row_sticker.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_bb.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/bb.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_undo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool4_d.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool4_d.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_erase_tool3_d.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/erase_tool3_d.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_save_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_save_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_text_fields_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_text_fields_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_filter_frames_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_filter_frames_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_item.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_filter_frames_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_filter_frames_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_rotate_right_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_rotate_right_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_redo_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_redo_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_real_erase_d.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/real_erase_d.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_crop_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_crop_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_pause_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_background_fill.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/background_fill.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_text_fields_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_text_fields_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_undo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_brush_size2_button.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/brush_size2_button.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_crop_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_crop_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_add_filter.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/add_filter.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_redo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_backward_arrow.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/backward_arrow.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_icframe.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/icframe.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_play_arrow_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_rotate_right_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_rotate_right_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_activity_cropimage.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/activity_cropimage.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_loupe_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_loupe_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_row_editing_tools.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/row_editing_tools.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_redo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_brush_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_brush_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_forward_arrow.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/forward_arrow.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_overlay_2.jpg.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/overlay_2.jpg"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_brush_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_brush_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_loupe_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_loupe_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_rotate_right_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_rotate_right_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_text_fields_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_text_fields_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_galleryview.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/galleryview.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_brush_size4_button.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/brush_size4_button.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_crop_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_crop_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_brush_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lens_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_lens_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_text_fields_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_text_fields_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_filter_frames_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_filter_frames_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_insert_emoticon_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_redo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_rotate_right_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_rotate_right_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_eraser_sub_button.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/eraser_sub_button.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_loupe_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_loupe_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_add_fram.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/add_fram.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_crop_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_crop_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_progress.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/progress.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_filter_frames_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_filter_frames_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_progress_fill.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/progress_fill.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_filter_frames_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_filter_frames_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_row_filter_view.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/row_filter_view.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_row_emoji.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/row_emoji.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lens_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_lens_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_undo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_rotate_right_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_rotate_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_activity_eraser.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/activity_eraser.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/layout_fragment_bottom_sticker_emoji_dialog.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/layout/fragment_bottom_sticker_emoji_dialog.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_insert_emoticon_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_insert_emoticon_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_insert_emoticon_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_frame.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/frame.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_brush_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_lens_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_lens_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_filter_frames_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_filter_frames_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_loupe_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_loupe_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_brush_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_brush_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_save_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_save_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_play_arrow_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lens_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_lens_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_rotate_right_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_rotate_right_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_redo_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-mdpi/ic_redo_black_24dp.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable_icon_save.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/src/main/res/drawable/icon_save.png"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_undo_black_24dp.xml.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_undo_black_24dp.xml"
+    },
+    {
+        "merged": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_lens_black_24dp.png.flat",
+        "source": "/home/adilfaruqi/Desktop/E(folder)/PhotoMaker-20200612T122535Z-001/PhotoMaker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_lens_black_24dp.png"
+    }
+]
